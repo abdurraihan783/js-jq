@@ -1,0 +1,87 @@
+/* header start */
+header{
+	background-color: #073A4B;
+	padding: 10px 0;
+}
+.m_nav{}
+.logo{
+	color: White;
+}
+
+.menu{}
+.menu ul li a{
+	font-size: 18px;
+	color: white !important;
+	padding: 0 20px !important;
+}
+.menu ul li a:hover{
+	color: White;
+}
+
+
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+.c_p{
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	background-color: grey;
+}
+
+/* mix it up */
+.r_title{
+	margin-top: 100px;
+}
+
+/* counterup */
+.c_h{
+	font-size: 30px;
+	font-weight: 700;
+}
+
+
+.timer_button{
+  width: 100px;
+  height: 50px;
+}
+
+.countup {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.countup .timeel {
+  display: inline-block;
+  padding: 10px;
+  background: #151515;
+  margin: 0;
+  color: white;
+  min-width: 2.6rem;
+  margin-left: 13px;
+  border-radius: 10px 0 0 10px;
+}
+
+.countup span[class*="timeRef"] {
+  border-radius: 0 10px 10px 0;
+  margin-left: 0;
+  background: #e8c152;
+  color: black;
+}
+
+
+
+
+/* Animation */
+.c_p2{
+	font-size: 35px;
+
+}
+
+
+
+/* Aos */
+.c_p3{
+	font-size: 50px;
+}
